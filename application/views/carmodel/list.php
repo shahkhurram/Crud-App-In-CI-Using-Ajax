@@ -281,7 +281,7 @@
                     $("#deleteModal").modal("hide");
                     $("#ajexResponseMod .modal-body").html(response["msg"]); 
                     $("#ajexResponseMod").modal("show");
-                    location.reload();
+                    $("#row-"+id).hide();
                     
                 }else{
                     $("#deleteModal").modal("hide");
