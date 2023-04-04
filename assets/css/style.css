@@ -1,0 +1,12 @@
+.header{
+    width: 100%;
+    background-color: rgb(14, 126, 237);
+}
+.heading{
+    padding: 13px;
+    color:white;
+
+}
+.col-md-6{
+    margin-left: 475px;
+} 
